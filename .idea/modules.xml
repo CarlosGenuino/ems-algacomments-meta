@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/algacomments.iml" filepath="$PROJECT_DIR$/.idea/algacomments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comments-manager.main.iml" filepath="$PROJECT_DIR$/.idea/modules/comments-manager.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/comments-moderation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/comments-moderation.main.iml" />
     </modules>
   </component>
 </project>
